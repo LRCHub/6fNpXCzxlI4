@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "CUT",
+  "base_artist": "神山羊",
+  "createdAt": "2025-12-23T14:11:11.208909Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cut Throat Boogie",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Cut_Throat_Boogie_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cut Throat Boogie",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Cut_Throat_Boogie_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1, 2 Many (The Writer's Cut)",
+      "artist": "Luke Combs",
+      "has_synced": false,
+      "path": "select/03_1,_2_Many_(The_Writer's_Cut)_Luke_Combs.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cut Me Loose",
+      "artist": "The Shires",
+      "has_synced": false,
+      "path": "select/04_Cut_Me_Loose_The_Shires.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cut Me Under",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/05_Cut_Me_Under_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "? Vs. Scratch (The Token DJ Cut)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/06_Vs._Scratch_(The_Token_DJ_Cut)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cut",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/07_Cut_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cut Master C Shit",
+      "artist": "50 Cent feat. G Unit",
+      "has_synced": true,
+      "path": "select/08_Cut_Master_C_Shit_50_Cent_feat._G_Unit.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cut Master C Shit",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/09_Cut_Master_C_Shit_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cut Out To FL",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/10_Cut_Out_To_FL_RJD2.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cut Out To Fl - Rjd2",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/11_Cut_Out_To_Fl_-_Rjd2_RJD2.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Go Cut Creator Go",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/12_Go_Cut_Creator_Go_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Clear Cut (feat. Lali Puna)",
+      "artist": "Bomb the Bass",
+      "has_synced": false,
+      "path": "select/13_Clear_Cut_(feat._Lali_Puna)_Bomb_the_Bass.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cut It Out",
+      "artist": "Les Savy Fav",
+      "has_synced": false,
+      "path": "select/14_Cut_It_Out_Les_Savy_Fav.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cut Myself",
+      "artist": "mysticphonk feat. Lil Peep",
+      "has_synced": true,
+      "path": "select/15_Cut_Myself_mysticphonk_feat._Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cut Myself (feat. Lil Peep)",
+      "artist": "mysticphonk",
+      "has_synced": true,
+      "path": "select/16_Cut_Myself_(feat._Lil_Peep)_mysticphonk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Do That There (Feat. Cut Chemist)",
+      "artist": "Lyrics Born",
+      "has_synced": false,
+      "path": "select/17_Do_That_There_(Feat._Cut_Chemist)_Lyrics_Born.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "A Chicken With Its Head Cut Off",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/18_A_Chicken_With_Its_Head_Cut_Off_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CUT",
+      "artist": "神山 羊",
+      "has_synced": false,
+      "path": "select/pl_01_CUT_神山_羊.txt"
+    }
+  ]
+}
